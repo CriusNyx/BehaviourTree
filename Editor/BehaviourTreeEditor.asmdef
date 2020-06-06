@@ -1,0 +1,23 @@
+{
+    "name": "BehaviourTreeEditor",
+    "references": [
+        "BehaviourTree",
+        "DynamicBinding",
+        "DynamicBindingEditor",
+        "GenericCustomEditor",
+        "NodeEditor",
+        "NodeEditorScripts",
+        "Validation"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
